@@ -7,19 +7,19 @@ function Contacts() {
     const [contacts, setContacts] = useState([
         {
             fullname: "Okan",
-            phone_number: "05444649646"
+            phone_number: "054446496464554"
         },
         {
             fullname: "Mehmet",
-            phone_number: "05546786789"
+            phone_number: "0554678678889"
         },
         {
             fullname: "Ayşe",
-            phone_number: "None"
+            phone_number: "05557879456498"
         },
         {
             fullname: "Buket",
-            phone_number: "05384994512"
+            phone_number: "0538497494512"
         }
     ])
 
